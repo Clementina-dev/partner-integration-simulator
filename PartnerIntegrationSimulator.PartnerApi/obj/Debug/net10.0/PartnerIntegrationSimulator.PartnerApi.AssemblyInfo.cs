@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartnerIntegrationSimulator.PartnerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9899ea1871cb44cdfd7bad5bc8deef81e918aff4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartnerIntegrationSimulator.PartnerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartnerIntegrationSimulator.PartnerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
