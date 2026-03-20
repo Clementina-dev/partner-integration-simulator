@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ClementinaProjects\\partner-integration-simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72398DCC-2966-AD2D-158F-2B067CE7B83B}|PartnerIntegrationSimulator.ClientApi\\PartnerIntegrationSimulator.ClientApi.csproj|c:\\clementinaprojects\\partner-integration-simulator\\partnerintegrationsimulator.clientapi\\infrastructure\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72398DCC-2966-AD2D-158F-2B067CE7B83B}|PartnerIntegrationSimulator.ClientApi\\PartnerIntegrationSimulator.ClientApi.csproj|solutionrelative:partnerintegrationsimulator.clientapi\\infrastructure\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1CF8DB-19A5-6734-C995-6FFE0E4D9908}|PartnerIntegrationSimulator.PartnerApi\\PartnerIntegrationSimulator.PartnerApi.csproj|c:\\clementinaprojects\\partner-integration-simulator\\partnerintegrationsimulator.partnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1CF8DB-19A5-6734-C995-6FFE0E4D9908}|PartnerIntegrationSimulator.PartnerApi\\PartnerIntegrationSimulator.PartnerApi.csproj|solutionrelative:partnerintegrationsimulator.partnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1CF8DB-19A5-6734-C995-6FFE0E4D9908}|PartnerIntegrationSimulator.PartnerApi\\PartnerIntegrationSimulator.PartnerApi.csproj|c:\\clementinaprojects\\partner-integration-simulator\\partnerintegrationsimulator.partnerapi\\controllers\\partnerpaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1CF8DB-19A5-6734-C995-6FFE0E4D9908}|PartnerIntegrationSimulator.PartnerApi\\PartnerIntegrationSimulator.PartnerApi.csproj|solutionrelative:partnerintegrationsimulator.partnerapi\\controllers\\partnerpaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.ClientApi\\Infrastructure\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "PartnerIntegrationSimulator.ClientApi\\Infrastructure\\CorrelationIdMiddleware.cs",
+              "ToolTip": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.ClientApi\\Infrastructure\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "PartnerIntegrationSimulator.ClientApi\\Infrastructure\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:02:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.PartnerApi\\Program.cs",
+              "RelativeDocumentMoniker": "PartnerIntegrationSimulator.PartnerApi\\Program.cs",
+              "ToolTip": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.PartnerApi\\Program.cs",
+              "RelativeToolTip": "PartnerIntegrationSimulator.PartnerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T15:58:33.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartnerPaymentsController.cs",
+              "DocumentMoniker": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.PartnerApi\\Controllers\\PartnerPaymentsController.cs",
+              "RelativeDocumentMoniker": "PartnerIntegrationSimulator.PartnerApi\\Controllers\\PartnerPaymentsController.cs",
+              "ToolTip": "C:\\ClementinaProjects\\partner-integration-simulator\\PartnerIntegrationSimulator.PartnerApi\\Controllers\\PartnerPaymentsController.cs",
+              "RelativeToolTip": "PartnerIntegrationSimulator.PartnerApi\\Controllers\\PartnerPaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T15:57:49.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

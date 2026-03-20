@@ -1,0 +1,6 @@
+@PartnerIntegrationSimulator.ClientApi_HostAddress = http://localhost:5186
+
+GET {{PartnerIntegrationSimulator.ClientApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
